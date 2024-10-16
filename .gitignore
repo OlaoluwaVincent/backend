@@ -1,0 +1,6 @@
+/vendor
+progress.csv
+report.json
+*.old
+.vscode
+.vs
